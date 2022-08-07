@@ -12,7 +12,6 @@
 
 ## General info
 
-Asynchronuous fetch request to a REST API in order to get a quote.
 The project is a part of my Javascript web projects. I use a custom proxy api to solve the problem of CORS error encountered with the use of Forismatic API
 
 ## Technologies
