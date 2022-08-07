@@ -8,14 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hugonin/template-test.git"
+    "url": "https://github.com/hugonin/quote-generator-app"
   },
   "author": "Hugonin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hugonin/template-test/issues"
+    "url": "https://github.com/hugonin/quote-generator-app/issues"
   },
-  "homepage": "https://github.com/hugonin/template-test#readme",
   "dependencies": {
     "body-parser": "^1.20.0",
     "cors": "^2.8.5",
